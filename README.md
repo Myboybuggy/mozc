@@ -20,6 +20,7 @@ Build Status
 
 What's Mozc?
 ------------
+------------
 For historical reasons, the project name *Mozc* has two different meanings:
 
 1. Internal code name of Google Japanese Input that is still commonly used
